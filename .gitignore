@@ -1,5 +1,8 @@
+.DS_Store
 **/.DS_Store
-*node_modules*
+
 dist/*
-*.old
 src/install.rdf
+
+*node_modules*
+*.old

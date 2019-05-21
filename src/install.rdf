@@ -4,7 +4,7 @@
     xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <RDF:Description RDF:about="urn:mozilla:install-manifest">
         <em:name>Thunderbird Message Filter Import/Export</em:name>
-        <em:version>1.4.6.M</em:version>
+        <em:version>1.4.11.M</em:version>
         <em:id>FiltersImportExport@mozilla.org</em:id>
         <em:description>
 		Message Filter Import/Export Tool for Thunderbird.
